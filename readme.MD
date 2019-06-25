@@ -13,10 +13,10 @@
 
 ## How to launch
 
-###Launch server
+### Launch server
 
 `jekyll serve`
 
-###Install modules/themes
+### Install modules/themes
 
 `bundle install`
