@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="blog list">
+    <h1>Posts with the tag <small>#{{ page.tag }}</small></h1>
+    <ul>
+    {% for category in site.categories %}
+      {% if  category contains page.tag %}
+        <li><a name="{{ category | first }}">{{ category | first }}</a>
+          <ul>
+          {% for post in category.last %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% endfor %}
+          </ul>
+        </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+
+</div>
