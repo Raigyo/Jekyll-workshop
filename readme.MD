@@ -12,7 +12,22 @@
 * * *
 
 ## Exercises list
+
 [List of exercices](https://github.com/scalajeremy/Jekyll-workshop/blob/master/7_work.md)
+
+1. Get the theme files
+
+2. Add a link to your facebook page
+
+3. Change basics infos of your site
+
+4. Add the categories
+
+5. Add a list of authors
+
+6. Be crazy
+
+Bonus: FTP & Github page
 
 ## How to launch
 
