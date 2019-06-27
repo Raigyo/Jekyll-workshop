@@ -41,3 +41,11 @@ Bonus: FTP & Github page
 ### Install modules/themes
 
 `bundle install`
+
+## Useful Links
+
+[Jekyll • Simple, blog-aware, static sites](https://jekyllrb.com/)
+
+[Liquid](https://shopify.github.io/liquid/)
+
+[Introduction à Liquid le moteur de template de Jekyll ](https://irz.fr/jekyll-liquid)
