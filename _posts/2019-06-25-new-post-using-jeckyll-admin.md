@@ -1,6 +1,7 @@
 ---
 title: New post using Jekyll Admin
 layout: post
+author: Jeremy Scala
 categories:
     - "tech"
 ---
