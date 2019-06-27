@@ -17,8 +17,8 @@ title: Workshop by Jeremy Scala
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Workshop by Jeremy Scala. (He sucks at Magic)
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Jekyll-workshop" # the subpath of your site, e.g. /blog
+url: "https://raigyo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  raigyo
 facebook_username: Raigyo
