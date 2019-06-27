@@ -8,10 +8,10 @@
 
 > 🔨 Jeckyl workshop by Jeremy Scala: [Jekyll-workshop](https://github.com/scalajeremy/Jekyll-workshop)
 
+[Demo on Githubpage](https://raigyo.github.io/Jekyll-workshop/)
+
 
 * * *
-
-[Demo on Githubpage](https://raigyo.github.io/Jekyll-workshop/) 
 
 
 ## Exercises list
