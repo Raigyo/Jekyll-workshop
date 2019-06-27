@@ -9,7 +9,7 @@ layout: page
         <li><a name="{{ category | first }}" href="{{site.baseurl}}/category/{{ category | first }}">{{ category | first }}</a>
           <ul>
           {% for post in category.last %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            <li><a href="{{site.baseurl}}/{{ post.url }}">{{ post.title }}</a></li>
           {% endfor %}
           </ul>
         </li>
