@@ -1,4 +1,4 @@
 ---
-tag: love
-permalink: "/category/love"
+tag: ict
+permalink: "/category/ict"
 ---
