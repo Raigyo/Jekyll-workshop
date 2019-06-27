@@ -11,6 +11,9 @@
 
 * * *
 
+[Demo on Githubpage](https://raigyo.github.io/Jekyll-workshop/) 
+
+
 ## Exercises list
 
 [List of exercices](https://github.com/scalajeremy/Jekyll-workshop/blob/master/7_work.md)
